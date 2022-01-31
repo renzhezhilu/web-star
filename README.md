@@ -1,6 +1,14 @@
 # web-star
 我的网址收藏
 
+## 有价值的blog
+
+[kitze](https://kitze.io/) 	
+
+[1loc](https://1loc.dev/) 代码片段1
+
+[30secondsofcode](https://www.30secondsofcode.org/) 代码片段2
+
 ## 前端基础工具
 
 #### UI
@@ -10,6 +18,19 @@
 [instagram.css](https://github.com/picturepan2/instagram.css) css图片滤镜
 
 [baffle](https://github.com/camwiegert/baffle) 字符混淆动画
+
+[icones](https://icones.js.org/) css图标
+
+```javascript
+// icones 快速全选
+let kkk = document.querySelectorAll('.non-dragging.icons-item.flex.tooltip.m-2')
+kkk.forEach((d,index)=>{
+	setTimeout(_=>{
+    d.click()
+	},30*index)
+})
+```
+
 
 #### 交互
 
@@ -27,9 +48,15 @@
 
 
 
+## github库推荐
+
+[openbase](https://openbase.com/)
 
 
 
+## 优化
+
+[bundlephobia](https://bundlephobia.com/package/colors.js@1.2.4) 检查npm包的大小
 
 ## 云端代码
 [codepen](http://codepen.io/)
@@ -52,6 +79,10 @@
 [openpeeps](https://www.openpeeps.com/) 人物插画
 
 ## 发现产品
+
+## 产品问题反馈
+
+[appjourney](https://appjourney.io/)
 
 ## 翻译
 [deepl](https://www.deepl.com/translator) 
@@ -107,3 +138,16 @@
 ## 梯子
 
 [library](https://www.library.ac.cn/) web代理
+
+## 免费的API
+
+[open-meteo](https://open-meteo.com/en/docs)天气
+
+
+
+## 浏览器信息
+
+[浏览器图片格式支持列表](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers#Image_format_support)
+
+[浏览器音频和视频支持测试](https://tools.woolyss.com/html5-audio-video-tester)
+
