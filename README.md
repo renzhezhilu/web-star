@@ -52,6 +52,10 @@ kkk.forEach((d,index)=>{
 
 [openbase](https://openbase.com/)
 
+[bestofjs](https://bestofjs.org/projects/interactjs)
+
+
+
 
 
 ## 优化
@@ -133,6 +137,10 @@ kkk.forEach((d,index)=>{
 
 [javascriptobfuscator](https://javascriptobfuscator.com/Javascript-Obfuscator.aspx) js混淆
 
+[js-beautify](https://github.com/beautify-web/js-beautify)  js美化
+
+
+
 
 
 ## 梯子
@@ -150,4 +158,42 @@ kkk.forEach((d,index)=>{
 [浏览器图片格式支持列表](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers#Image_format_support)
 
 [浏览器音频和视频支持测试](https://tools.woolyss.com/html5-audio-video-tester)
+
+# meme
+
+[imgflip](https://imgflip.com/i/2rfqms)
+
+
+
+# ping
+
+[pingdom](https://tools.pingdom.com/)
+
+[ping.pe](http://ping.pe/)
+
+[ping.chinaz](https://ping.chinaz.com/)
+
+[dnschecker](https://dnschecker.org/) 检查DNS
+
+[blockedinchina](https://www.comparitech.com/privacy-security-tools/blockedinchina/) 是否被墙
+
+# 商业组件
+
+[ej2](https://ej2.syncfusion.com/home/vue.html) 
+
+# 在线图片处理
+
+[fococlipping](https://www.fococlipping.com/clip) 抠图
+
+# 短链接
+
+[bitly](https://bitly.com/) 数据记录
+
+# 安全诊断	
+
+[virustotal](https://www.virustotal.com/) 可疑文件、哈希值、域、IP 和 URL 
+
+[mxtoolbox](https://mxtoolbox.com/) 域名、ip、Email
+
+[abuseipdb](https://www.abuseipdb.com/) ip域名警告
 
