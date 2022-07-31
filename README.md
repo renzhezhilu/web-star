@@ -5,13 +5,17 @@
 
 [css-tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) css 系统图文教程
 
-## 有价值的blog
+## 有价值的blog/社区
 
 [kitze](https://kitze.io/) 	
 
 [1loc](https://1loc.dev/) 代码片段1
 
 [30secondsofcode](https://www.30secondsofcode.org/) 代码片段2
+
+[medium.com](https://medium.com/tag/javascript) 文章
+
+[brutalist](https://brutalist.report/?limit=5) 内容聚合
 
 ## 前端基础工具
 
@@ -24,6 +28,12 @@
 [baffle](https://github.com/camwiegert/baffle) 字符混淆动画
 
 [icones](https://icones.js.org/) css图标
+
+[emojipedia](https://emojipedia.org/) moji表情大全
+
+[https://source.unsplash.com/random/800x600](https://source.unsplash.com/random/800x600) 随机图片
+
+[metatags](https://metatags.io/) 预览网址分享效果
 
 ```javascript
 // icones 快速全选
@@ -58,6 +68,8 @@ kkk.forEach((d,index)=>{
 
 [bestofjs](https://bestofjs.org/projects/interactjs)
 
+[freefrontend](https://freefrontend.com/) 代码片段演示
+
 
 
 
@@ -72,7 +84,6 @@ kkk.forEach((d,index)=>{
 [jsfiddle](https://jsfiddle.net/) 
 
 [stackblitz](https://stackblitz.com/)
-
 
 [codesandbox](https://codesandbox.io)
 [xxx](xxxx)
@@ -99,11 +110,25 @@ kkk.forEach((d,index)=>{
 
 ## 静态部署
 
+[pages.cloudflare](https://pages.cloudflare.com/) 🆓
+
+[vercel](https://vercel.com/) 🆓
+
 ## CDN
+
+[statically](https://statically.io/)
+
+ [jsdelivr](https://www.jsdelivr.com/)
+
+[githack](http://raw.githack.com/)
+
+
 
 ## 数据统计
 
 ##  数据格式
+
+[unicode.html](https://www.ssec.wisc.edu/~tomw/java/unicode.html) unicode码大全
 
 [grcdi](https://grcdi.nl/gsb/) 各国数据格式
 
@@ -127,6 +152,14 @@ kkk.forEach((d,index)=>{
 
 [open collective](https://opencollective.com/shields)
 
+# 网站信息
+
+[similarweb](https://www.similarweb.com/zh/)
+
+[semrush](https://zh.semrush.com/)
+
+
+
 
 
 ## 网站可嵌入工具
@@ -143,7 +176,9 @@ kkk.forEach((d,index)=>{
 
 [js-beautify](https://github.com/beautify-web/js-beautify)  js美化
 
+[css-js](https://tool.css-js.com/) 压缩, 美化, 加密, 解密
 
+[javascript-minifier](https://www.toptal.com/developers/javascript-minifier) 压缩 js ❤️
 
 
 
@@ -170,6 +205,8 @@ kkk.forEach((d,index)=>{
 
 
 # ping
+
+[17ce](http://www.17ce.com/)
 
 [pingdom](https://tools.pingdom.com/)
 
@@ -200,6 +237,88 @@ kkk.forEach((d,index)=>{
 [mxtoolbox](https://mxtoolbox.com/) 域名、ip、Email
 
 [abuseipdb](https://www.abuseipdb.com/) ip域名警告
+
+# 电子书
+
+[haodoo](https://www.haodoo.net/) 繁体
+
+
+
+# 文档
+
+[devdocs](https://devdocs.io/) 各种文档
+
+ffmpeg
+
+​	[ffmpeg-basics](https://www.jishuchi.com/read/ffmpeg-basics/12468)
+
+imageMagick
+
+​	[效果图文并茂](https://legacy.imagemagick.org/Usage/distorts/)
+
+​	[ImageMagick命令](https://www.thisfaner.com/p/imagemagick/)
+
+​	[imagemagick.org](https://imagemagick.org/script/command-line-options.php#resize)
+
+opencv
+
+​	[opencv-doc-zh](https://github.com/apachecn/opencv-doc-zh)
+
+​	[opencv.js browser](https://docs.opencv.org/4.5.5/d0/d84/tutorial_js_usage.html)
+
+# 匿名的直接传输和免费储存
+
+[musetransfer](https://musetransfer.com/) 
+
+[file.io](https://www.file.io/)
+
+[mediafire](https://www.mediafire.com/) 
+
+[imgur](https://imgur.com/) 
+
+[gofile](https://gofile.io/)
+
+
+
+# Job
+
+[hnhiring.me](http://www.hnhiring.me/) visa
+
+[hnhiring.com](https://hnhiring.com/)
+
+[jobs Hacker News](https://news.ycombinator.com/jobs)
+
+# 特色网站
+
+[theporndude](https://theporndude.com/zh)
+
+[1024xp](https://1024xp.com/)
+
+[miss](https://missav.com/)    [javgo](https://javgo.to/)
+
+[155.fun](https://455.fun/)
+
+
+
+# VPN
+
+[protonvpn](https://protonvpn.com/download-windows) 待测试
+
+[surfshark](https://surfshark.com/) 待测试
+
+[astrill](https://www.astrill.com) 贵但稳定已测试
+
+
+
+
+
+# Game
+
+[nexusmods](https://www.nexusmods.com/games) mod
+
+ # BBS论坛
+
+[right.com.cn](https://www.right.com.cn/forum/) 路由器
 
 
 
