@@ -1,9 +1,39 @@
 # web-star
 我的网址收藏
 
+# 机器学习
+
+[Python模型效果预览](https://replicate.com/)
+
+[人工智能社区](https://huggingface.co/)
+
+[TensorFlow.js](https://www.tensorflow.org/)  JavaScript 进行机器学习开发的库
+
+-----
+
+[根据关键词造图](https://thumbsnap.com/gen)   [类似效果的列表][https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/]
+
+# 新兴搜索引擎
+
+
+
+[neeva](https://neeva.com/)
+
+[duckduckgo](https://duckduckgo.com/)
+
+[yep](https://yep.com/)
+
+
+
+
+
 ## 教程
 
 [css-tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) css 系统图文教程
+
+[打结](https://knots3d.com/knots/en_us/ALL)
+
+
 
 ## 有价值的blog/社区
 
@@ -29,9 +59,15 @@
 
 [icones](https://icones.js.org/) css图标
 
+[iconify](https://icon-sets.iconify.design/) 免费图标 真的多 ❤️
+
 [emojipedia](https://emojipedia.org/) moji表情大全
 
 [https://source.unsplash.com/random/800x600](https://source.unsplash.com/random/800x600) 随机图片
+
+[ximg.es](https://ximg.es/600x400/ddd/aaa) 图片尺寸占位
+
+https://pixabay.com/
 
 [metatags](https://metatags.io/) 预览网址分享效果
 
@@ -70,6 +106,8 @@ kkk.forEach((d,index)=>{
 
 [freefrontend](https://freefrontend.com/) 代码片段演示
 
+[awesomejs.dev](https://awesomejs.dev/) 各种框架推荐的模块
+
 
 
 
@@ -77,6 +115,8 @@ kkk.forEach((d,index)=>{
 ## 优化
 
 [bundlephobia](https://bundlephobia.com/package/colors.js@1.2.4) 检查npm包的大小
+
+[tabnine](https://www.tabnine.com/) 查詢代碼片段
 
 ## 云端代码
 [codepen](http://codepen.io/)
