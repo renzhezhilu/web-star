@@ -2,7 +2,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/7707921/232273823-64547ea7-c9e2-49ef-909a-cd2cc4ba38c6.jpg" alt="6d050af1ly1hd09tgoggbj20m80m80yv" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/7707921/232273823-64547ea7-c9e2-49ef-909a-cd2cc4ba38c6.jpg" alt="6d050af1ly1hd09tgoggbj20m80m80yv" style="" width=400 />
 
 # web-star
 
@@ -51,6 +51,8 @@
 
 
 ## 有价值的blog/社区
+
+[wicg.io](https://wicg.io/)   ❤️ 浏览器制造商社区，最新网络技术的文档  配合 [caniuse](https://caniuse.com/) 使用
 
 [kitze](https://kitze.io/) 	
 
@@ -164,6 +166,10 @@ https://refero.design/
 
 ## 发现产品
 
+[alternativeto](https://alternativeto.net) 各种软件和可替代的开源软件 ❤️
+
+[privacytools](https://www.privacytools.io/) 增加隐私保护的各种软件和网站
+
 ## 产品问题反馈
 
 [appjourney](https://appjourney.io/)
@@ -172,6 +178,8 @@ https://refero.design/
 [deepl](https://www.deepl.com/translator) 
 
 [i18ns](https://i18ns.com/zh/index.html) 国际化
+
+[语种一对一讨论](https://forum.wordreference.com/forums/%E4%B8%AD%E6%96%87-%E6%96%B9%E8%A8%80-chinese.72/)
 
 ## 静态部署
 
@@ -307,7 +315,11 @@ https://refero.design/
 
 [haodoo](https://www.haodoo.net/) 繁体
 
+[中国古典](https://ctext.org/)
 
+# 电子乐
+
+[dj.beatport.com](https://dj.beatport.com/genres/bass-club/top100)
 
 # 文档
 
@@ -359,9 +371,13 @@ opencv
 
 [1024xp](https://1024xp.com/)
 
-[miss](https://missav.com/)    [javgo](https://javgo.to/)
+[missav](https://missav.com/) 
+
+ [javgo](https://javgo.to/)   ❤️
 
 [155.fun](https://455.fun/)
+
+[束缚(乔布斯玩的挺大)](https://www.houseofgord.com/)
 
 
 
@@ -371,9 +387,11 @@ opencv
 
 [surfshark](https://surfshark.com/) 待测试
 
-[astrill](https://www.astrill.com) 贵但稳定已测试
+[astrill](https://www.astrill.com) 贵（$150 1Y）稳如老狗 已测试
 
+[privadovpn](https://privadovpn.com/) 实惠（$50 2.3Y 活动价）稳定性尚可 已测试 
 
+❤️ http://1.1.1.1/  Cloudflare WARP 免费还自动去广告 赞美Cloudflare👍
 
 
 
